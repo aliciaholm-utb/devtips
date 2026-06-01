@@ -1,3 +1,0 @@
-Detta är mitt Git Tips: 
-
-Kom ihåg att göra en branch :D 
